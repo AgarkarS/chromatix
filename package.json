@@ -1,0 +1,17 @@
+{
+  "name": "chromatic",
+  "version": "1.0.0",
+  "description": "Code Test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/sax": "^1.2.0",
+    "node-xml-stream": "^1.0.2",
+    "sax": "^1.2.4",
+    "xml2json": "^0.12.0"
+  }
+}
